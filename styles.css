@@ -1,0 +1,19 @@
+body {
+  background-color: rgba(253, 9, 9, 0.678);
+}
+div {
+  align-items: center;
+  margin: 10px;
+  justify-content: center;
+  display: flex;
+}
+.titulo p {
+  font-family: "Comic Sans MS";
+  color: chartreuse;
+  font-size: 50px;
+}
+.enlace p {
+  font-family: "Comic Sans MS";
+  color: rgb(0, 255, 55);
+  font-size: 30px;
+}
